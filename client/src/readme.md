@@ -16,11 +16,8 @@ A modern, fast, and scalable URL shortening service built with Node.js, React  a
   
 ### Installation
 
-1. Clone the repository
-```bash
-git clone https://github.com/aniketkc123/deploy
+1. Download  zip files from repository and open in vs code 
 
-```
 
 2. Install dependencies
 ```bash
