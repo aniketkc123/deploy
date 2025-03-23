@@ -137,14 +137,7 @@ url-shortener/
 - [ ] URL expiration
 - [ ] API key management
 
-## 🌐 Deployment
 
-This API is deployed on Vercel. For deployment instructions:
-
-1. Push code to GitHub
-2. Connect repository to Vercel
-3. Configure environment variables
-4. Deploy!
 
 ## 📄 License
 
