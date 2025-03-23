@@ -16,14 +16,20 @@ A modern, fast, and scalable URL shortening service built with Node.js, React  a
   
 ### Installation
 
-1. Download  zip files from repository and open in vs code 
+1. Download  zip files from repository and open in vs code
+
+```
+git clone https://github.com/aniketkc123/deploy.git;
+cd deploy
+```
 
 
-2. Install dependencies
+3. Install dependencies
 ```bash
 cd server
 npm i
-cd cleint
+cd ..
+cd client
 npm i
 ```
 
@@ -40,6 +46,7 @@ npm start
 ```
 
 The API will be available at `http://localhost:5000`
+and the frontend will be running at the `http://localhost:3000/`
 
 ## 📡 API Endpoints
 
