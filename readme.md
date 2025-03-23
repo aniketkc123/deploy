@@ -33,7 +33,7 @@ cd client
 npm i
 ```
 
-3. Create a `.env` file in the root directory
+3. Change  `.env` file in the root directory
 ```env
 PORT=5000
 MONGO_URI= your_mongodb_connection_string(enter your mongodb url string)
