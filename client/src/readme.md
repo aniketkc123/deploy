@@ -18,7 +18,7 @@ A modern, fast, and scalable URL shortening service built with Node.js, React  a
 
 1. Clone the repository
 ```bash
-git clone https://github.com/aniketkc123/deploy/new/main/client/src
+git clone https://github.com/aniketkc123/deploy
 
 ```
 
